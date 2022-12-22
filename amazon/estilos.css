@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: aqua;
+}
+
+.logo{
+    padding: 17px;
+    padding-left: 18px;
+    
+}
+#general{
+    background-color: #1c6acf;
+    width: auto;
+    height: 60px;
+}
+#imapa{
+    padding-left: 117px;
+    margin-top: -30px;
+}
+#direc{
+    color: #ccc;
+    padding-left: 20px;
+    margin-top: -35px;  
+}
+#letra{
+    font-size: 11px;
+}
+#per{
+    color: #fff;
+    font-size: 13px;
+}
+.nav-left{
+    margin-left: 90px;
+}
+
+.nav-fill{
+    width: 60%s;
+}
+
